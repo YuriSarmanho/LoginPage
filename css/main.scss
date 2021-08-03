@@ -2,8 +2,7 @@ body{
     padding: 0;
     margin: 0;
     font-family: 'Poppins';
-    
-    background-color: #34495e;
+    background-color: #0f365c;
 }
 .box{
     width: 300px;
@@ -28,7 +27,7 @@ body{
             display: block;
             margin: 20px auto;
             text-align: center;
-            border: 2px solid #3498db;
+            border: 2px solid #246a99;
             padding: 14px 10px;
             width: 200px;
             outline:none;
@@ -46,7 +45,7 @@ body{
             display: block;
             margin: 20px auto;
             text-align: center;
-            border: 2px solid #3498db;
+            border: 2px solid #246a99;
             padding: 14px 10px;
             width: 130px;
             outline:none;
@@ -57,6 +56,6 @@ body{
             font-size: 1em;
         }    
         .sendButton:hover{
-            background:#3498db;
+            background:#246a99;
         }   
 }
